@@ -1,0 +1,10 @@
+# Data provided for the work of:
+#  DARK-AGES REIONIZATION AND GALAXY FORMATION SIMULATION VIII. 
+#   Suppressed growth of dark matter halos during the Epoch of Reionization
+#    Yuxiang Qin, Alan R. Duffy, Simon J. Mutch, Gregory B. Poole, Paul W. Angel, Paul M. Geil, Andrei Mesinger and J. Stuart B. Wyithe
+
+# ADIABT_L010N0512_mr.hdf5    mass ratio in the ADIAB simulation
+# WTHERMT_L010N0512_mr.hdf5   mass ratio in the WTHERM simulation
+# ADIABT_L010N0512_fb.hdf5    baryon fraction in the ADIAB simulation
+# WTHERMT_L010N0512_fb.hdf5   baryon fraction in the WTHERM simulation
+# ADIABT_L010N0512_zr.hdf5    (1+z) ratio in the ADIAB simulation
